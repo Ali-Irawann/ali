@@ -33,8 +33,8 @@ Saya tertarik pada bidang:
 ---
 
 ## 📫 Kontak
-- Email: *(isi email di sini)*  
-- GitHub: *(tautan GitHub kamu)*  
+- Email: *(ali.i@mhs.unsoed.ac.id)*  
+- GitHub: *(https://github.com/Ali-Irawann/ali/edit/main/README.md))*  
 - LinkedIn: *(opsional)*  
 
 ---
