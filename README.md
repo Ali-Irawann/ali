@@ -1,4 +1,4 @@
-# ali
+# ali tampan
 # 👋 Halo, Saya **Ali Irawan**
 
 Saya adalah mahasiswa **Universitas Jenderal Soedirman**, program studi **D3 Perencanaan Sumberdaya Lahan**, Fakultas Pertanian.  
@@ -37,11 +37,6 @@ Saya tertarik pada bidang:
 - GitHub: *(https://github.com/Ali-Irawann/ali/edit/main/README.md))*  
 - LinkedIn: *(opsional)*  
 
----
-
-## ⭐ Catatan
-README ini dibuat untuk tampilan profil GitHub pribadi.  
-Silakan ubah sesuai kebutuhan atau tambahkan foto, badge, atau portofolio.
 
 ---
 
