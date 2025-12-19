@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>UAS APLIKOM - Pivot Table & GitHub</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 20px;
+            margin-top: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.8;
+        }
+        .info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-box {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-box img {
+            width: 90%;
+            max-width: 800px;
+            border: 1px solid #ccc;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 10px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>UAS APLIKOM</h1>
+        <h2>Pivot Table & GitHub</h2>
+
+        <div class="info">
+            <p><strong>Nama:</strong> Ali Irawan</p>
+            <p><strong>NIM:</strong> A0B025079</p>
+        </div>
+
+        <h2>Hasil Pivot Table</h2>
+        <div class="image-box">
+            <img src="pivot-table.png" alt="Hasil Pivot Table Keasaman Tanah">
+            <p><em>Gambar 1. Hasil analisis PivotTable luas lahan berdasarkan tingkat keasaman tanah</em></p>
+        </div>
+
+        <h2>Interpretasi Hasil Analisis</h2>
+        <p>
+            Berdasarkan hasil analisis PivotTable, luas lahan terbesar berada pada kategori tanah
+            masam dengan total sekitar 73.589,528 ha, yang menunjukkan bahwa kondisi tanah masam
+            mendominasi wilayah yang dianalisis.
+        </p>
+        <p>
+            Kategori tanah agak masam memiliki luas yang jauh lebih kecil, yaitu sekitar 20.944 ha,
+            sehingga proporsinya relatif rendah dibandingkan tanah masam.
+        </p>
+        <p>
+            Sementara itu, terdapat data dengan kategori kosong (blank) seluas 1.577,697 ha,
+            yang mengindikasikan adanya data yang belum terklasifikasi atau belum teridentifikasi
+            tingkat keasamannya.
+        </p>
+        <p>
+            Secara keseluruhan, total luas lahan yang tercatat mencapai 96.111,225 ha, sehingga dapat
+            disimpulkan bahwa karakteristik keasaman tanah di wilayah tersebut didominasi oleh tanah masam.
+        </p>
+
+        <footer>
+            <p>&copy; 2025 | UAS APLIKOM - Ali Irawan</p>
+        </footer>
+    </div>
+
+</body>
+</html>
